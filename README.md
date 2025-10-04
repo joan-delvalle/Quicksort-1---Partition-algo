@@ -1,1 +1,1 @@
-# Quicksort-1---Partition-algo
+# Quicksort-1---Partition-algo This function picks the first element as a pivot, moves all smaller elements before it and larger elements after it, and returns the rearranged array without fully sorting it. It’s a single step in QuickSort called partitioning.
